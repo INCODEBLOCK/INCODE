@@ -1,46 +1,26 @@
-# PRAGNA
+# TORMIX
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Solana](https://img.shields.io/badge/Solana-Web3-green.svg)](https://solana.com/)
 [![Status](https://img.shields.io/badge/Status-In%20Development-orange.svg)]()
 [![GitHub Issues](https://img.shields.io/github/issues/yourusername/ontora-ai.svg)](https://github.com/yourusername/ontora-ai/issues)
 
-[![Website](https://img.shields.io/badge/Website-PRAGNA-blue?logo=google-chrome)](https://pragna.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-PRAGNA-blue?logo=twitter)](https://x.com/PRAGNALABS).
+[![Website](https://img.shields.io/badge/Website-TORMIX-blue?logo=google-chrome)](https://tormix.run/)
+[![Twitter](https://img.shields.io/badge/Twitter-TORMIX-blue?logo=twitter)](https://x.com/TORMIXTECH).
 
-```
-CA: GFhXVvSzTMZhubyn1Gh68KnYxTy5bdBFmHiFkJ64pump
+The first native decentralized mixer on Solana.
 
-PRAGNA is not built to predict, but to adapt. 
+TORMIX is the first native decentralized mixer on Solana — a system that reconstructs privacy through the union of cryptography and speed.
 
-When volatility spikes, it recalibrates. 
+Built on zero-knowledge proofs and stealth address architecture, it employs multi-layered mixing and randomization to make every transaction verifiable on-chain while completely breaking traceability.
 
-When greed dominates, it neutralizes. 
+When a user deposits funds into the mixing pool, the system automatically splits them into encrypted fragments, introducing randomized delays and multi-path routing along the timeline.
+These fragments are rehashed, reshuffled, and anonymized by the mixing engine, generating a set of output proofs entirely detached from their original inputs.
+When the user withdraws, only a zero-knowledge proof is required to verify legitimacy — no source or linkage is ever revealed.
 
-When code drifts, it learns.
+The entire process is trustless and intermediary-free, executed fully by on-chain smart contracts and cryptographic validation.
+Leveraging Solana’s high throughput and low latency, TORMIX compresses the traditionally complex process of mixing into seconds, achieving privacy without sacrificing efficiency.
 
-Every block is an iteration.
+It is not an app or an external bridge, but a privacy layer embedded directly into the chain itself.
 
-Every correction, a new mind.
-```
-
-
-The first self-correcting state machine on Solana.
-
-The blockchain has always been a recording machine — it only writes and never looks back.
-
-PRAGNA is changing that.
-
-It is the first self-correcting on-chain state structure on Solana, capable of observing its own deviation, measuring imbalance, and automatically restoring equilibrium without human intervention.
-
-Every on-chain event causes a subtle state shift — a Δ value representing tension, volatility, or bias.
-
-PRAGNA’s equilibrium layer continuously tracks these shifts and compares them with an ideal state curve generated from real-time network data.
-
-When the deviation exceeds the threshold of 0.05Δ, the system automatically initiates a self-correction cycle, redistributing weight, adjusting parameters, and bringing the network back to balance.
-
-Each correction becomes part of the system’s memory.
-Over time, PRAGNA learns faster and reacts more intelligently,
-eventually forming a “reflex arc” unique to Solana.
-
-PRAGNA transforms the blockchain from passive recording into active stabilization.
+Within Solana’s transparent and high-speed ledger, TORMIX redefines what anonymity means — where privacy is reborn in speed, and trust endures in code.
