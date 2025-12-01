@@ -10,6 +10,8 @@
 
 # **HIP3ONE — AI-Driven Framework for HIP-3 Markets on Hyperliquid**
 
+CA: E6zmcTDgacqaxZpe2mrSUyjirBeJGqZdYHeZwGszpump
+
 HIP3ONE helps developers deploy, monitor and optimize HIP-3 perpetual markets on Hyperliquid more safely and efficiently.  
 It automates parameter configuration, liquidity calibration and risk prevention to ensure stable and secure market operation from launch to maturity.
 
