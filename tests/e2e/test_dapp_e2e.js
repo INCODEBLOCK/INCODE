@@ -1,4 +1,4 @@
-// Import Cypress commands and utilities
+// Import Cypress commands and utilities 
 // Note: Cypress doesn't require explicit imports for its commands, but custom commands or plugins can be added here if needed
 // For Web3 wallet interactions, we assume a mock or test wallet extension like Phantom is installed in the test browser
 
