@@ -1,5 +1,7 @@
 ![1500x500](https://github.com/user-attachments/assets/01576d0d-b92e-4e03-8725-dba0455bd6d5)
 
+CA: FZqAiMDgPRcqCjugQC5J9kFbGm9QygpBH6Mi8M9cpump
+
 # NarutoGotchi
 
 <p align="center">
